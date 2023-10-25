@@ -3,7 +3,7 @@
 
 # Jenkins Complete CI/CD Pipeline Environment Setup 
 
-## CICD Applications setup
+## CICD Application setups
 1) ###### GitHub setup
     Fork GitHub Repository by using the existing repo "devops-fully-automated" (https://github.com/cvamsikrishna11/devops-fully-automated)     
     - Go to GitHub (github.com)
